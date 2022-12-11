@@ -13,8 +13,7 @@
 ![UML(Final)](https://user-images.githubusercontent.com/113867801/206895607-1e99b028-7d13-4def-911b-e9b0d109ece9.png)
 
 ## Screenshots:
-![screenshots](https://user-images.githubusercontent.com/113868129/206889443-196e5771-3d73-423f-bd92-8e517c914882.png)
-![screenshot](https://user-images.githubusercontent.com/113868129/206889603-b6f5494b-c577-4fe7-bf4b-251bc440ff00.png)
+![01](https://user-images.githubusercontent.com/113868129/206898386-defd8b1d-f679-4591-807e-adcdeed78d7d.png)
 
 ## Video Presentation (Demo)
 Link:

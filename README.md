@@ -10,7 +10,7 @@
 - money_machine
 
 ## Unified Modeling Languagee (UML):
-![UML](https://user-images.githubusercontent.com/113867801/206894921-10510d66-5a63-4463-8036-c964877276a6.JPG)
+![UML(Final)](https://user-images.githubusercontent.com/113867801/206895607-1e99b028-7d13-4def-911b-e9b0d109ece9.png)
 
 ## Screenshots:
 ![screenshots](https://user-images.githubusercontent.com/113868129/206889443-196e5771-3d73-423f-bd92-8e517c914882.png)

@@ -1,11 +1,10 @@
 # Simple-Coffee-Machine
-![main](https://user-images.githubusercontent.com/113868129/206889141-624b9b86-6332-4259-b556-0199059fbd28.png)
+![main1](https://user-images.githubusercontent.com/113868129/206889277-777ef232-5606-424e-bb5d-bd1fa6a5b28a.png)
 
 
 
 
-
-
+## Screenshot:
 
 
 

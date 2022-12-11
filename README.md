@@ -1,5 +1,5 @@
 # Simple-Coffee-Machine
-
+![main](https://user-images.githubusercontent.com/113868129/206889141-624b9b86-6332-4259-b556-0199059fbd28.png)
 
 
 

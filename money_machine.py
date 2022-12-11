@@ -8,7 +8,7 @@ class MoneyMachine:
         "nickles": 0.05,
         "pennies": 0.01
     }
-
+ 
     def __init__(self):
         self.profit = 0
         self.money_recieved = 0

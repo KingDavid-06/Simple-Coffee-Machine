@@ -14,6 +14,7 @@
 
 ## Screenshots:
 ![01](https://user-images.githubusercontent.com/113868129/206898386-defd8b1d-f679-4591-807e-adcdeed78d7d.png)
+![02](https://user-images.githubusercontent.com/113868129/206898457-c51df4eb-b738-4cd6-82ce-d299fa273690.png)
 
 ## Video Presentation (Demo)
 Link:

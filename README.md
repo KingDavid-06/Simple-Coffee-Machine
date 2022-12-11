@@ -1,6 +1,6 @@
 # Simple-Coffee-Machine
 ![main output](https://user-images.githubusercontent.com/113868129/206894471-4b5c63ca-07b6-4112-a891-6aa0e49dca69.png)
-- This project is called a Simple Coffee Machine on python OOP. A coffee machine that prompts users to select the flavor of coffee they want to purchase. Three distinct hot flavors are available in our coffee machine such as Espresso, Latte, Cappuccino. Also they can input a money to buy a coffee.
+- This project is called a Simple Coffee Machine on python OOP. A coffee machine that prompts users to select the flavor of coffee they want to purchase. Three distinct hot flavors are available in our coffee machine such as Espresso, Latte, Cappuccino. Also they can input a money to buy a coffee. Once the resources is already empty the terminal will be close.
 
 ## Customized Module:
 

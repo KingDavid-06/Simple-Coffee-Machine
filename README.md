@@ -32,7 +32,7 @@
 ![UML(Final)](https://user-images.githubusercontent.com/113867801/206895607-1e99b028-7d13-4def-911b-e9b0d109ece9.png)
 
 ## General Instruction:
-To run the program access terminal and activate virtual environment.
+For you To be able to run the program you only need to access terminal.
 
 ## Screenshots:
 ![01](https://user-images.githubusercontent.com/113868129/206898386-defd8b1d-f679-4591-807e-adcdeed78d7d.png)

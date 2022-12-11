@@ -13,8 +13,8 @@
 empty
 
 ## Screenshots:
-![screenshots](https://user-images.githubusercontent.com/113868129/206889443-196e5771-3d73-423f-bd92-8e517c914882.png)
-![screenshot](https://user-images.githubusercontent.com/113868129/206889603-b6f5494b-c577-4fe7-bf4b-251bc440ff00.png)
+![01](https://user-images.githubusercontent.com/113868129/206894789-682ae855-047d-4fa9-a615-48af374659b1.png)
+![02](https://user-images.githubusercontent.com/113868129/206894824-8535f51f-27ad-466d-8f05-a67bbc80c43c.png)
 
 ## Video Presentation (Demo)
 Link:

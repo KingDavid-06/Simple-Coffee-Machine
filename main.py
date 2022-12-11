@@ -6,6 +6,8 @@ items_menu = Menu()
 coffee_machine = CoffeeMaker()
 money_machine = MoneyMachine()
 
+print("\n===================== COFFEE MACHINE =====================")
+
 def report():
     coffee_machine.report()
     money_machine.report()
